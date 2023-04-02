@@ -1,5 +1,5 @@
-"Hi, my name is Can and welcome to my Github profile! 🌎
-I'm a 16-year-old software developer from Turkey with ⚡️ experience in React.js, Vue.js, Lua, and SQL languages. I primarily work with React and plan to share some of my projects for free in the near 🔥future. Here, you can find icons representing the languages that I'm familiar with:  🥤
+Hi, my name is Can and welcome to my Github profile! 🌎
+I'm a 16-year-old software developer from Turkey with ⚡️ experience in React.js, Vue.js, Lua, and SQL languages. I primarily work with React and plan to share some of my projects for free in the near 🔥 future. Here, you can find icons representing the languages that I'm familiar with:  🥤
 
 You can find my Discord profile at <a href="https://discordapp.com/users/425336949516140547" target="_blank">Discord Address</a> Clicking on it will take you directly to my Discord profile.
 
